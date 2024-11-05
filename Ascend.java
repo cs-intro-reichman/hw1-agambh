@@ -3,5 +3,8 @@
 public class Ascend {
 	public static void main(String[] args) {
 		// Replace this comment with your code
+		int i=3;
+		System.out.println(i);
+		
 	}
 }
