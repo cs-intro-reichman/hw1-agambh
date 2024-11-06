@@ -3,8 +3,12 @@
 public class PrintTo5 {
 	public static void main(String[] args) {
 		// Declares an int variable, and sets it to 1
-        int i = 0;
-        System.out.println(i);
+        int i = 1;
+        while (i<6) {
+            System.out.println(i);
+            i=i+1;
+        }
+        
         // Complete the program's code here:
     }
  }
